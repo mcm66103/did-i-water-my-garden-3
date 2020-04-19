@@ -15,4 +15,6 @@ run your migrations
 run dev runserver
 `python manage.py runserver`
 
-[tutorial pt. 3](https://read.maverickmoore.com/learn-django-tutorial-models/)
+## Tutorial series
+  - [solution code for tutorial pt. 3](https://read.maverickmoore.com/learn-django-tutorial-models/)
+  - [starter code for tutorial pt. 4](https://read.maverickmoore.com/learn-django-tutorial-visualizing-data/)
