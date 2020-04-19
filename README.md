@@ -1,5 +1,5 @@
-# did-i-water-my-garden-1
-Did I Water my Garden Demo App pt. 2
+# did-i-water-my-garden-3
+Did I Water my Garden Demo App pt. 3
 
 ## Getting started
 `pip install -r requirements.txt`
@@ -15,4 +15,4 @@ run your migrations
 run dev runserver
 `python manage.py runserver`
 
-[tutorial pt. 1](https://read.maverickmoore.com/learn-django-tutorial-startproject/)
+[tutorial pt. 3](https://read.maverickmoore.com/learn-django-tutorial-models/)
